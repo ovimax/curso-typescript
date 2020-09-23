@@ -1,0 +1,18 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "description": "Aprender TypeScript con TrainingIT (https://cursos.trainingit.es/)",
+  "main": "index.js",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "cowsay Hola mundo, bienvenidos al curso"
+  },
+  "author": "Ovidiu Silviu Muresan git@ovimax",
+  "license": "ISC"
+}
